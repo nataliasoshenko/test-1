@@ -1,5 +1,8 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="natasha">
+    <module2copyright>
+      <element module="All" copyright="natasha" />
+    </module2copyright>
     <LanguageOptions name="Shell Script">
       <option name="fileTypeOverride" value="3" />
     </LanguageOptions>
